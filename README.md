@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jan Pieter Herweijer
 - 👀 I’m interested in JS, Vue, GraphQL, MongoDb, and cooking
-- 🌱 I’m currently working on a Vue, GraphQL, and MongoDb project
+- 🌱 I’m currently working on a Vue, Svelte, GraphQL, and MongoDb project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jpherweijer@gmail.com
 
